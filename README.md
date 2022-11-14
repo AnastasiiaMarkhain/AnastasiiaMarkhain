@@ -17,6 +17,11 @@
 ![TESTRAIL](https://img.shields.io/badge/-TESTRAIL-090909?style=for-the-badge)
 
 ### Testing Documentation
+* [Checklists](https://github.com/AnastasiiaMarkhain/Checklists)
+* [Test Cases / Test Suites](https://github.com/AnastasiiaMarkhain/Test-Cases)
+* [Bug Reports](https://github.com/AnastasiiaMarkhain/Bug-Reports)
+* [SQL Queries](https://github.com/AnastasiiaMarkhain/SQL-Queries)
+* [Postman Collections](https://github.com/AnastasiiaMarkhain/Postman-Collection)
 
 ### Follow me
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=linkedin&logoColor=0273B1)](https://www.linkedin.com/in/anastasia-markhain-852947102/)
