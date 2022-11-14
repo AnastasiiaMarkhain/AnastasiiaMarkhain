@@ -2,7 +2,8 @@
 
 ## I'm a Software Test Engineer
 
-My CV
+## My CV
+[Link to my CV](https://docs.google.com/document/d/1aO05buV6jk_GMSBKv5xn8zvzuS9bIHuR4_KTb3UefBI/edit)
 
 ### Language and Tools
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=2584FF) 
@@ -15,7 +16,7 @@ My CV
 ![CHARLESPROXY](https://img.shields.io/badge/-CHARLESPROXY-090909?style=for-the-badge)
 ![TESTRAIL](https://img.shields.io/badge/-TESTRAIL-090909?style=for-the-badge)
 
-Testing Documentation
+### Testing Documentation
 
 ### Follow me
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=linkedin&logoColor=0273B1)](https://www.linkedin.com/in/anastasia-markhain-852947102/)
