@@ -17,4 +17,6 @@ My CV
 
 Testing Documentation
 
-Follow me
+### Follow me
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=linkedin&logoColor=0273B1)](https://www.linkedin.com/in/anastasia-markhain-852947102/)
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=telegram&logoColor=0273B1)](https://t.me/ana_mark)
